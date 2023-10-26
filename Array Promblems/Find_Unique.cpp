@@ -1,5 +1,5 @@
 // To find the unique element in an array of integers where all elements except one are present twice. The function findUnique takes an array of integers and its size as input and returns the unique element present in the array.
-
+// Problem taken form coding ninjans platform Problem Code: FIND UNIQUE
 #include <iostream>
 using namespace std;
 
